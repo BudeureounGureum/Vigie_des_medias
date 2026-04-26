@@ -1,5 +1,5 @@
-Pour exécuter le .jar, il faut saisir la commande 'java -jar ProjetBouillerMatheo.jar'. A ce moment là, l'utilisateur va être demandé 
-s'il souhaite télécharger la base de données du projet s'il ne l'a pas sur sa machine.
+Pour exécuter le .jar, il suffit de saisir la commande 'java -jar ProjetBouillerMatheo.jar'. A ce moment là, il sera proposé à l'utilisateur de 
+télécharger la base de données du projet s'il ne l'a pas sur sa machine.
 
 Il peut répondre avec y, avec yes, avec oui, avec n, avec no, ou avec non.
 
